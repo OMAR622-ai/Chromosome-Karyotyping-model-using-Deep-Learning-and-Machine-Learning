@@ -1,2 +1,5 @@
-# Chromosome-Karyotyping-model-using-Deep-Learning-and-Machine-Learning
-The model is designed to analyze and classify chromosomes based on their banding patterns, which is essential for genetic diagnostics and research. The project leverages state-of-the-art techniques in computer vision and machine learning to automate the process of karyotyping, reducing manual effort and improving accuracy.
+# Dataset Samples
+
+| ![Image 1](Dataset%20Samples/13_1_884_180_0-728_jpg.rf.9cb811278b9e60ac962967e54d7e7aa7.jpg) | ![Image 2](Dataset%20Samples/62_4_345_279_0-910_jpg.rf.2faeb147c81df2a27008823c441f104d.jpg) 
+|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| ![Image 3](Dataset%20Samples/69_4_688_279_0-781_jpg.rf.ee7dc114c4be00b15e1315350d7f9868.jpg) | ![Image 4](Dataset%20Samples/74_2_933_279_0-787_jpg.rf.11484c5cbe0cc6af3636155092638e27.jpg)
